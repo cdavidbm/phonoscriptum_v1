@@ -11,7 +11,7 @@ Este proyecto convierte palabras y frases en frecuencias de audio y las envía a
 
 ### Instalación de SuperCollider
 
-1. Descarga e instala SuperCollider desde su [sitio oficial](https://supercollider.github.io/download).
+1. Descarga e instala SuperCollider desde su [sitio oficial](https://supercollider.github.io/downloads).
 2. Una vez instalado, abre SuperCollider y ejecuta el siguiente código para iniciar el servidor:
 3. Carga el archivo `FullSynth.scd` en SuperCollider y ejecuta el código presionando:
 
