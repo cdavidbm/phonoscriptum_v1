@@ -1,0 +1,20 @@
+{
+    "frecuencia_base": 100.0,
+    "incremento": 1.0,
+    "ataque": 4.0,
+    "decaimiento": 4.0,
+    "efectos": {
+        "delay": {
+            "active": false,
+            "amount": 0
+        },
+        "distortion": {
+            "active": false,
+            "amount": 0
+        },
+        "noise": {
+            "active": false,
+            "amount": 0
+        }
+    }
+}
